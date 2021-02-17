@@ -1,5 +1,7 @@
-# FindDuplicatedClasses
- ```Find duplicates jars/classes app
+## FindDuplicatedClasses\
+
+ ```
+ Find duplicates jars/classes app
   ============================================================================================================
    Handy tool to identify duplicated dependencies, jars or classes with multiple versions on a java running machine.
    Given a classpath as an input list of directories/files delimited by colon (:),

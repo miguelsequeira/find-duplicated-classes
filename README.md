@@ -1,5 +1,5 @@
 
- `Find duplicates jars/classes app
+ Find duplicates jars/classes app
  ============================================================================================================
    Handy tool to identify duplicated dependencies, jars or classes with multiple versions on a java running machine.
    Given a classpath as an input list of directories/files delimited by colon (:),
@@ -11,7 +11,7 @@
 
 
  Usage:
-    -h ,  --help                        : show this info
-    -v ,  --verbose                     : outputs more info and details than normal
-    -cp , --classpath                   : the desired classpath to search within
-`
+    - h ,  --help                        : show this info
+    - v ,  --verbose                     : outputs more info and details than normal
+    - cp , --classpath                   : the desired classpath to search within
+

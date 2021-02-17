@@ -1,4 +1,4 @@
-## FindDuplicatedClasses\
+## Find Duplicated Classes Script
 
  ```
  Find duplicates jars/classes app
